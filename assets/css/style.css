@@ -80,14 +80,32 @@ body {
 
 
 /*FOOTER*/
-.texto-footer {
-    text-align: center;
-    margin: 0;
-}
-
 
 .footer {
     padding-top: 24px;
     padding-bottom: 22px;
     background-color: #17A2B8;
+}
+
+.texto-footer {
+    text-align: center;
+    margin: 0;
+    color: white;
+    font-size: 30px;
+}
+
+.i-color-posicion {
+    text-align: center;
+    color: white;
+}
+/*
+esta clase sirve para cada icono por separado. Si tengo 5 iconos a los 5 debo agregarle esta clase
+.icono-size {
+    font-size: 30px;
+} */
+/* este selector (anidacion de clases) va a buscar todos las etiquetas "i" dentro de las etiquetas con clase
+"i-color-posicion" y le aplicara los estilos. */
+.i-color-posicion i {
+    font-size: 30px;
+    padding: 5px;
 }
