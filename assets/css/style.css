@@ -21,7 +21,10 @@ body {
     color: white;
 }
 
-
+.my-card{
+    height: 140px;
+    width: auto;
+}
 .cardpadd {
     padding: 20px;
 
