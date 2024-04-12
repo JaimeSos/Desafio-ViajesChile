@@ -1,0 +1,93 @@
+body {
+    font-family: "Raleway", sans-serif;
+    font-weight: 300;
+    background-color: #000000;
+}
+
+.mynavbar {
+    background-color: #373A3C;
+}
+.icon {
+    width: 50px;
+}
+
+.navcolor {
+    color: white;
+}
+
+
+.carta {
+    background-color: #17A2B8;
+    color: white;
+}
+
+
+.cardpadd {
+    padding: 20px;
+
+}
+
+.color-container {
+    background-color: black
+}
+
+
+.trabajos {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 73.3px;
+}
+
+
+.texto-center {
+    color: white;
+}
+.acerca-de-mi {
+    padding: 25px;
+}
+
+
+/* FORMULARIO */
+.formulario {
+    background-color: black;
+    padding-bottom: 29px;
+}
+.texto-forml {
+    color: white;
+}
+
+.texto-formulario {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.texto-input {
+    text-align: left;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.boton {
+    text-align: left;
+    color: white;
+}
+
+/* colocar clases tanto en p como en div funcionarán igual. */
+
+
+/*FOOTER*/
+.texto-footer {
+    text-align: center;
+    margin: 0;
+}
+
+
+.footer {
+    padding-top: 24px;
+    padding-bottom: 22px;
+    background-color: #17A2B8;
+}
